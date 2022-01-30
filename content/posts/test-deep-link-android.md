@@ -1,7 +1,7 @@
 ---
 title: 'Test Deep Link Android'
 date: '2020-09-11T13:39:31.000Z'
-hero_image: ../images/rami-al-zayat-w33-zg-dNL4-unsplash.jpg
+hero_image: ../images/03-rami-al-zayat-w33-zg-dNL4-unsplash.jpg
 ---
 
 With ADB:

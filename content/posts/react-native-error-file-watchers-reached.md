@@ -1,7 +1,7 @@
 ---
 title: 'React Native Error ENOSPC: System limit for number of file watchers reached on Linux'
 date: '2020-08-10T00:50:31.000Z'
-hero_image: ../images/max-chen-lud4OaUCP4Q-unsplash.jpg
+hero_image: ../images/02-max-chen-lud4OaUCP4Q-unsplash.jpg
 ---
 
 Problem: Error when installing/running react native package on Linux

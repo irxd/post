@@ -1,7 +1,7 @@
 ---
 title: Ducky One 2 Mini Mac Problem
 date: '2020-08-08T19:27:31.000Z'
-hero_image: ../images/juan-gomez-kt-wA0GDFq8-unsplash.jpg
+hero_image: ../images/01-juan-gomez-kt-wA0GDFq8-unsplash.jpg
 ---
 
 Problem: Keyboard keep shutting down (not respond) for a random time on Mac OS
