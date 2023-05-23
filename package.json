@@ -14,7 +14,7 @@
     "serve": "gatsby serve --prefix-paths",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "forestry-preview": "gatsby develop -p 8080 -H 0.0.0.0",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master"
   },
   "dependencies": {
     "gatsby": "^2.13.9",
