@@ -2,7 +2,7 @@ const config = require("./config.json")
 const infoData = require("./content/data/info.json")
 
 module.exports = {
-  pathPrefix: `/blog`,
+  pathPrefix: `/post`,
   //this makes the site config available to forestry cms
   siteMetadata: {
     title: config.title,
