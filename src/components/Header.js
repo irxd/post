@@ -13,9 +13,13 @@ export default function Header(props) {
         role="navigation"
         aria-label="main navigation"
       >
-        <Link to="/">
-          <h1>{props.title}</h1>
-        </Link>
+        {props.page === "home" ? (
+          <a href="https://irxd.github.io"><h1>{props.title}</h1></a>
+        ) : (
+          <Link to="/">
+            <h1>{props.title}</h1>
+          </Link>
+        )}
         <div>
           <h1>
             <Link

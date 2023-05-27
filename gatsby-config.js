@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: `/post`,
   //this makes the site config available to forestry cms
   siteMetadata: {
-    title: config.title,
+    title: 'Muhammad Irsyad ― Frontend Developer',
     description: config.description,
     repoUrl: config.repository_url,
     about: config.about,
